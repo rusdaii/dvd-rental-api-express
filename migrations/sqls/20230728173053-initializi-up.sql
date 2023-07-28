@@ -1,2 +1,2 @@
 ALTER TABLE actor
-ADD COLUMN salary INT;
+ADD COLUMN age INT;
